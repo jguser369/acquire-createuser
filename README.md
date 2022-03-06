@@ -7,10 +7,7 @@ on the left navigation panel. Account Settings -> Users,
 Roles and Skills -> Create User. This scenario should also
 validate required fields.
 
-You've been added to lo4h4a. To log in, use the following credentials:
-• email: virijukix@givmail.com
-• password: Hereisanew1!
-• Click the link below to log in to your account:
+
 • https://accounts.uat.env.acquire.io/login?endpoint=account&return=&account
 =lo4h4a
 
