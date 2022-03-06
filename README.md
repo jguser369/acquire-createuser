@@ -41,20 +41,28 @@ Run the test case on the browser i.e Chrome![image](https://user-images.githubus
 # Steps to Execute the scripts
 
 1.TestNG configuration is used to run the scripts.
-2.Right click on the TestNG.xml file and run .
+
+2.Right click on the TestNG.xml file and run
+
 3.All the test cases are included in the TestNG.xml file
+
 4.Also we can run the script using the maven. Select the pom.xml file and perform the below instructions
     mvn clean install
     mvn test
+    
 5.Also we have created the run.bat file inside the project file. Refer the readme instruction to run the file![image](https://user-images.githubusercontent.com/101045277/156920778-a4400c11-9c6d-4963-b8f5-84773eb8ac58.png)
 
 -----------------------
 Readme Instructions
 -------------------
 1.Download the project file in the local repository
+
 2.Open the run.bat file in the notepad to edit
+
 3.Update the project location
+
 4.Save and close the bat file
+
 5.Double click on the bat file to run the script
 
 # Test Report
