@@ -14,8 +14,11 @@ validate required fields.
 # Approach
 
 Used the POM –PageObject Model and Page Factory as part of the automation framework
-Language :Java with Selenium Webdriver,TestNG
-Tools:IntelliJ/Eclipse
+
+Language :Java with Selenium Webdriver
+
+Tools:IntelliJ/Eclipse,TestNG,Maven
+
 Browser:Chrome
 
 # Automation Framework Design used
