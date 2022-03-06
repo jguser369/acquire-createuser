@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" acquire CreateUser">
+    <test name="CreateUser Test">
+        <classes>
+            <class name="com.acquire.io.testCases.TC_LoginTest_001"></class>
+            <class name="com.acquire.io.testCases.TC_LoginSSO_002"></class>
+            <class name="com.acquire.io.testCases.TC_CreateUser_004"></class>
+            <class name="com.acquire.io.testCases.TC_ClickSetting_003"></class>
+            <class name="com.acquire.io.testCases.TC_CreateUserReq_005"></class>
+        </classes>
+    </test>
+
+
+</suite>
