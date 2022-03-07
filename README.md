@@ -67,6 +67,7 @@ Readme Instructions
 
 # Test Report
 
-![image](https://user-images.githubusercontent.com/101045277/156920753-c813df16-96bb-4474-a4dc-ca0493ed787d.png)
+![image](https://user-images.githubusercontent.com/101045277/156957745-e66603e2-5356-48f0-832e-9f632612d9f5.png)
+
 
 # Thank You
